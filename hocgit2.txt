@@ -1,3 +1,5 @@
-dây la` file 2
-########
-Lan sua cua Tran Thien Hoa
+int i = 1;
+if(i > 0) 
+{
+ print_r(i);
+}
