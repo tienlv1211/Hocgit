@@ -1,6 +1,5 @@
 int i = 1;
-if(i < 0) // commit Hoa
-afasfasfas
+if(i=1)
 {
  print_r(i);
 }
