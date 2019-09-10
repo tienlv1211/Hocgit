@@ -1,5 +1,5 @@
 int i = 1;
-if(i >= 0) // sua doi cua tien
+
 {
  print_r(i);
 }
