@@ -1,5 +1,5 @@
 int i = 1;
-if(i > 0) 
+if(i < 0) // commit Hoa
 {
  print_r(i);
 }
